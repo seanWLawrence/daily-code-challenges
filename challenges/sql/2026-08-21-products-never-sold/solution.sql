@@ -1,0 +1,1 @@
+CREATE TEMP VIEW answer AS SELECT NULL AS product, NULL AS category WHERE 0;
